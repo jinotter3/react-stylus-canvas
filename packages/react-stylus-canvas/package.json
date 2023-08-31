@@ -1,0 +1,24 @@
+{
+  "name": "@jinotter3/react-stylus-canvas",
+  "version": "1.0.0",
+  "description": "library for stable stylus canvas, capable of image editing and exporting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build && tsc",
+    "dev": "vite"
+  },
+  "author": "jinotter3",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.2.21",
+    "@types/styled-components": "^5.1.26",
+    "react": "^18.2.0",
+    "styled-components": "^6.0.7",
+    "typescript": "^5.2.2",
+    "vite": "^4.4.9"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}
